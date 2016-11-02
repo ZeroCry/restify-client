@@ -16,9 +16,9 @@ This will cause that the response will be the entire body
 # Basic Usage
 
 ```javascript
-var restClient = require('rest-client');
+var restifyClient = require('restify-client');
 
-restClient.post(request, function(err, response){
+restifyClient.post(request, function(err, response){
     console.log(response);
 });
 ```
