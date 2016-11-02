@@ -1,4 +1,4 @@
-# node-rest-client
+# restify-client
 NodeJS Basic Rest Client - With callbacks. You can Promisify or Synchronize
 
 This client works using the [JSON API Specification](http://jsonapi.org/).
